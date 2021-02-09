@@ -1,7 +1,6 @@
 .wrapper {
   display: flex;
 }
-
 .side-bar {
   background-color: #253141;
   width: 300px;
@@ -35,7 +34,6 @@
   background-color: #2F3E51;
   height: calc(100vh - 100px);
   padding: 0 20px;
-  overflow: scroll;
 }
 
 .room {
@@ -76,7 +74,6 @@
   padding: 20px;
 }
 
-
 .messages {
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
@@ -112,6 +109,7 @@
   font-size: 14px;
   margin-bottom: 40px;
 }
+
 .form {
   background-color: #DDDDDD;
   height: 90px;
